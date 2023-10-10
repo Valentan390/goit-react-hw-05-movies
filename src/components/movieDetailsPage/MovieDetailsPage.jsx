@@ -19,7 +19,7 @@ const MovieDetailsPage = () => {
   const { moviesid } = useParams();
 
   let activeClassName = {
-    color: '#2196f3',
+    color: 'red',
   };
 
   const location = useLocation();
