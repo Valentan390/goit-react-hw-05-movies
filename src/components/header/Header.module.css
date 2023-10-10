@@ -1,0 +1,25 @@
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 500;
+  color: #2a363b;
+  font-size: 18px;
+  font-size: xx-large;
+}
+
+.link :focus,
+.link:hover {
+  color: #2196f3;
+}
+
+.header {
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  align-items: center;
+  min-height: 80px;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #2a363b;
+  background-color: blanchedalmond;
+}
