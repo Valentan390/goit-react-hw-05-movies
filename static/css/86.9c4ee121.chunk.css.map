@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/86.9c4ee121.chunk.css","mappings":"AAAA,uBACE,aACF,CCFA,+BACE,gBACF","sources":["components/loader/Loader.module.css","components/homePages/HomePages.module.css"],"sourcesContent":[".Spinner {\n  margin: 0 auto;\n}\n",".divHomePages {\n  padding-left: 15%;\n}\n"],"names":[],"sourceRoot":""}
